@@ -11,3 +11,14 @@
 @import url(../blocks/header/__address-text/header__address-text.css);
 @import url(../blocks/header/__address-link/header__address-link.css);
 @import url(../blocks/menu/menu.css);
+@import url(../blocks/aligned-text/aligned-text.css);
+@import url(../blocks/aligned-text/_center/aligned-text_center.css);
+@import url(../blocks/aligned-text/_right/aligned-text_right.css);
+@import url(../blocks/letter-spacing-extended/letter-spacing-extended.css);
+@import url(../blocks/no-letter-spacing/no-letter-spacing.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__description/cover__description.css);
+@import url(../blocks/cover/__description-text/cover__description-text.css);
+@import url(../blocks/cover/__description-button/cover__description-button.css);
+@import url(../blocks/overlay/overlay.css);

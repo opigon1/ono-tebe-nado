@@ -1,0 +1,13 @@
+.cover__description-button {
+  padding: 12px 32px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+  color: #fff;
+  cursor: pointer;
+  z-index: 100;
+}
