@@ -1,0 +1,10 @@
+.card__title {
+  margin: 50px 40px 0;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  color: #fff;
+}
