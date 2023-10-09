@@ -1,0 +1,8 @@
+.header__address-link {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24.3px;
+  border-bottom: 1px solid #000;
+  text-decoration: none;
+}

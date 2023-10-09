@@ -1,1 +1,13 @@
-/* место для вашего кода */
+@import url(../fonts/fonts.css);
+@import url(../styles/global.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__links-list/header__links-list.css);
+@import url(../blocks/header/__links-list-item/header__links-list-item.css);
+@import url(../blocks/header/__links-list-item/_no-bullit/header__links-list-item_no-bullit.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__link/_active/header__link_active.css);
+@import url(../blocks/header/__address/header__address.css);
+@import url(../blocks/header/__address-text/header__address-text.css);
+@import url(../blocks/header/__address-link/header__address-link.css);
+@import url(../blocks/menu/menu.css);

@@ -1,0 +1,6 @@
+.header__links-list {
+  display: flex;
+  justify-content: space-between;
+  list-style: circle;
+  padding: 0;
+}
