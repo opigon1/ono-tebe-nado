@@ -1,0 +1,8 @@
+.about {
+  max-width: 1340px;
+  margin: 0 auto 180px;
+  display: grid;
+  grid-template-columns: 430px 1fr;
+  justify-items: center;
+  column-gap: 25px;
+}

@@ -1,0 +1,11 @@
+.about__text {
+  max-width: 885px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.about__text:not(:last-child) {
+  margin-bottom: 25px;
+}
