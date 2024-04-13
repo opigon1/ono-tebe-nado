@@ -14,7 +14,7 @@
 <li>Grid</li>
 </ol>
 <h2>Инструкция по эксплуатации</h2>
-<a href="https://opigon1.github.io/how-to-learn/">Ссылка на GitPage</a>
+<a href="https://opigon1.github.io/ono-tebe-nado/">Ссылка на GitPage</a>
 Клонировать репозиторий:
 
     git@github.com:opigon1/ono-tebe-nado.git
